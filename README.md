@@ -17,13 +17,13 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Screenshot
 
-![](./recipe-page-main/assets/images/recipe-page-solution.png)
+![](./assets/images/recipe-page-solution.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution]((https://github.com/discipula99/recipe-page-main))
+- Live Site URL: [GitHub Pages]()
 
 ## My process
 
@@ -37,6 +37,6 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@discipula99](https://www.frontendmentor.io/profile/discipula99)
 
 
